@@ -32,7 +32,7 @@ Node.js
 Express.js
 
 ## Live Site
-https://git.heroku.com/budget-tracker-kt.git
+https://budget-tracker-kt.herokuapp.com/
 
 ![Budget Tracker](https://user-images.githubusercontent.com/82126894/140877495-c105e268-744a-4713-b362-84f9706371dd.png)
 
