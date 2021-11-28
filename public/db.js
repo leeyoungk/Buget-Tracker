@@ -2,7 +2,7 @@ let db;
 let dbVersion =3;
 const storeLable = 'storeBudget';
 
-const request = indexedDB.open( 'storeBudget', dbVersion );
+const request = indexedDB.open( 'BudgetDB', dbVersion );
 
 
 request.onerror = function ( e ) {
